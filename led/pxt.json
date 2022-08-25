@@ -20,6 +20,6 @@
     "dependencies": {
         "core": "*",
         "color": "*",
-        "jacdac": "github:microsoft/pxt-jacdac"
+        "jacdac": "github:wout-o/pxt-jacdac"
     }
 }
