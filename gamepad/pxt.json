@@ -4,7 +4,7 @@
     "description": "MakeCode support for Jacdac Gamepad service",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:wout-o/pxt-jacdac"
+        "jacdac": "github:wouto-1745605/pxt-jacdac#11e4903e1d8ebad663d56928b7288f5d45d541c5"
     },
     "files": [
         "constants.ts",
